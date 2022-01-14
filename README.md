@@ -27,9 +27,9 @@ Stock – DQ performed best in year 2017.
     1. 2017: 0.49 seconds
     2. 2018:0.49 seconds
 
-![Refactored code run time for the year 2017](../Resources/VBA challenge\_Refactored\_2017.png)
+![Refactored code run time for the year 2017](VBA challenge_Refactored_2017.PNG)
 
-![Refactored code run time for the year 2018](../Resources/VBA Challenge\_Refactored\_2018.png)
+![Refactored code run time for the year 2018](VBA Challenge_Refactored_2018.PNG)
 
 **Summary**
 
